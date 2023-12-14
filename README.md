@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/D5616AQEInbgvRmNqIA/profile-displaybackgroundimage-shrink_350_1400/0/1702594575114?e=1707955200&v=beta&t=edYuyWEOznB9MAf1Kh2EhOrz3-8bOmocIb9I62JyGPw" width="100%" />
+ <img src="https://media.licdn.com/dms/image/D5616AQE_5-liSaGhQw/profile-displaybackgroundimage-shrink_350_1400/0/1702595025746?e=1707955200&v=beta&t=pCTeOuIZ7YDmiJLpDrSgqtrk6netlLir3WEbB-Zpziw" width="100%" />
 <h1 align="center">Hi 👋, I'm Abdullah Al Sobail</h1>
 <h3 align="center">A Full Stack Web Developer</h3>
 <p>-I’m currently working at <b>Black Origin</b></p>
