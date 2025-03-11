@@ -3,7 +3,7 @@
 <h3 align="center">Software Engineer (Full Stack & App Development Expertise)</h3>
 <p>-I’m currently working at <b>Black Origin</b></p>
 <p>-I’m currently learning <strong>Next js</strong></p>
-<p>Ask me about :<strong>HTML,CSS,Bootstrap,Tailwind,JavaScript,Node.js,Express.js,React js,jQuery,MongoDb,SQL,MySQL,PHP,Laravel,Python,Django,WordPress</strong></p>
+<p>Ask me about :<strong>HTML,CSS,Bootstrap,Tailwind,JavaScript,Node.js,Express.js,React js,Next.js,jQuery,MongoDb,SQL,MySQL,PHP,Laravel,Python,Django,WordPress,Dart,Flutter,JAVA</strong></p>
 <p>- 📫 How to reach me <a href="email-to">abdullahalsobail78@gmail.com</a></p>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/abdullah-al-sobail-26a4061a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
