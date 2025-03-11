@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Sobail</h1>
 <h3 align="center">Software Engineer (Full Stack & App Development Expertise)</h3>
 <p>-I’m currently working at <b>Black Origin</b></p>
-<p>-I’m currently learning <strong>Next js</strong></p>
+
 <p>Ask me about :<strong>HTML,CSS,Bootstrap,Tailwind,JavaScript,Node.js,Express.js,React js,Next.js,jQuery,MongoDb,SQL,MySQL,PHP,Laravel,Python,Django,WordPress,Dart,Flutter,JAVA</strong></p>
 <p>- 📫 How to reach me <a href="email-to">abdullahalsobail78@gmail.com</a></p>
 
