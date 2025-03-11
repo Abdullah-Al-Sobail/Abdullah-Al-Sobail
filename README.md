@@ -1,6 +1,6 @@
  <img src="https://media.licdn.com/dms/image/D5616AQE_5-liSaGhQw/profile-displaybackgroundimage-shrink_350_1400/0/1702595025746?e=1717632000&v=beta&t=sFUcnWqfVmev65SdZL1obPSLo-4uX8FLw_5_b4TvDUw" />
 <h1 align="center">Hi 👋, I'm Abdullah Al Sobail</h1>
-<h3 align="center">A Full Stack Web Developer</h3>
+<h3 align="center">Software Engineer (Full Stack & App Development Expertise)</h3>
 <p>-I’m currently working at <b>Black Origin</b></p>
 <p>-I’m currently learning <strong>Next js</strong></p>
 <p>Ask me about :<strong>HTML,CSS,Bootstrap,Tailwind,JavaScript,Node.js,Express.js,React js,jQuery,MongoDb,SQL,MySQL,PHP,Laravel,Python,Django,WordPress</strong></p>
