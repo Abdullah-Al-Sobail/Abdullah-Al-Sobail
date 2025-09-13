@@ -1,4 +1,4 @@
- <img src="https://media.licdn.com/dms/image/D5616AQE_5-liSaGhQw/profile-displaybackgroundimage-shrink_350_1400/0/1702595025746?e=1717632000&v=beta&t=sFUcnWqfVmev65SdZL1obPSLo-4uX8FLw_5_b4TvDUw" />
+ <img src="https://media.licdn.com/dms/image/v2/D5616AQGLZO1_JG7Zow/profile-displaybackgroundimage-shrink_350_1400/B56ZcxF3WhGoAk-/0/1748875311449?e=1760572800&v=beta&t=Bh9__nPBHa5iHfH-8nPUeH_5w6-mSXvopom6tczHRD4" />
 <h1 align="center">Hi 👋, I'm Abdullah Al Sobail</h1>
 <h3 align="center">Software Engineer (Full Stack & App Development Expertise)</h3>
 
